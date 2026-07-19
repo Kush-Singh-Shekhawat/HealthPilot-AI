@@ -1,0 +1,15 @@
+streamlit
+langchain
+langgraph
+langchain-google-genai
+langchain-community
+google-genai
+sqlalchemy
+pandas
+plotly
+python-dotenv
+apscheduler
+pydantic
+loguru
+httpx
+passlib[bcrypt]
